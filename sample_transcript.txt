@@ -1,0 +1,10 @@
+
+Project Planning Meeting
+
+Priya: We need to complete the website homepage by Friday.
+Sneha: I will finish the homepage design by Wednesday.
+Aditi: I will work on the backend API integration.
+Priya: We agreed to use React for the frontend.
+Sneha: The team decided to conduct testing on Saturday.
+Aditi: I will prepare the API documentation by Thursday.
+Priya: We need to review the final application before submission.
